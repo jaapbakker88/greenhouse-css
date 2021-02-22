@@ -1,0 +1,16 @@
+#application {
+	background-color: transparent;
+	padding:unset;
+	max-width: unset;
+}
+
+#main_fields div.field {
+	display: flex;
+	line-height: 30px;
+  margin-bottom: 15px;
+}
+
+#main_fields div.field input {
+	flex: 1;
+	width: auto;
+}
